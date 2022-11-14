@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Tongqing Qiu
+name: Rayne Jiang
 
 # Short bio or description (displayed in the header)
 description: Software Developer
@@ -18,16 +18,12 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble: 
-  email: tongqing.qiu@gmail.com
+  email: raynechiang5235@gmail.com
   facebook: 
   flickr: 
-  github: tongqqiu
-  instagram: 
-  linkedin: 
-  pinterest: 
+  github: rayne-jiang
+  linkedin: https://www.linkedin.com/in/raynejiang/
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus: 
@@ -37,7 +33,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url: 
+url: http://rayne-jiang.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages 
 # (http://yourusername.github.io/repository-name)
