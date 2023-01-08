@@ -8,8 +8,8 @@ Some information about you!
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Life is a wilderness
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[raynechiang5235@gmail.com](Rayne:raynechiang5235@gmail.com)
