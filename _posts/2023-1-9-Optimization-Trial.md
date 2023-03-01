@@ -3,9 +3,6 @@ layout: post
 title: Optimization Trial On MongoDB Search with Atlas Search
 ---
 
-# Optimization Trial On MongoDB Search with Atlas Search
-
-
 ## Background
 
 Search is a very broad business scenario, especially text search.  The normal solution to improve the MongoDB search efficiency is to create the index. And if you want to improve more, you just add the compound index.
