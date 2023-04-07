@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Optimization Trial On MongoDB Search with Atlas Search
+date: 2023-01-09
 ---
 
 ## Background
