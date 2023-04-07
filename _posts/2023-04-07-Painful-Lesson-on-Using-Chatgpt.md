@@ -102,17 +102,17 @@ db.collection.aggregate([
 
 It looks quite nice right? However it's a harmful command. The $out Command in mongoDB will replace the whole existing collections.
 
-![image-20230407170104480](/Users/jry/Library/Application Support/typora-user-images/image-20230407170104480.png)
+![image-20230407170104480](./../images/image-20230407170104480.png)
 
 ***[$out reference on MongoDB](https://www.mongodb.com/docs/manual/reference/operator/aggregation/out/)***
 
 Then I try to let the GPT check the answer by itself.
 
-![image-20230407175431284](/Users/jry/Library/Application Support/typora-user-images/image-20230407175431284.png)
+![image-20230407175431284](./../images/image-20230407175431284.png)
 
 But failed, so finally I have to correct it
 
-![image-20230407175733272](/Users/jry/Library/Application Support/typora-user-images/image-20230407175733272.png)
+![image-20230407175733272](./../images/image-20230407175733272.png)
 
 ```json
 // Fetch the document
